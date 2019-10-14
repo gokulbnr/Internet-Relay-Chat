@@ -1,0 +1,9 @@
+README
+
+I have implemented text based single server multiple client chat system with all required commands. All the files have to be in the same directory. For running:
+Server side: bash server.sh
+Client side: bash client.sh
+
+Username will be prompted for on Client side, the same has to be given from standard input when prompted. 
+
+Prepred by Gokul B. Nair, 201502034
